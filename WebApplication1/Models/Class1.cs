@@ -7,5 +7,6 @@ namespace WebApplication1.Models
 {
     public class Class1
     {
+        int i = 0;
     }
 }
